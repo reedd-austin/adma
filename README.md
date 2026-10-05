@@ -513,7 +513,7 @@ Readings are listed for preparation before class unless noted. Labs are the core
 **Changes to the syllabus.** The instructor may adjust the schedule in response to class progress, guest availability, or regulatory changes. Changes will be announced in class and posted on the course site.
 
 
-## 12. At-a-Glance Calendar
+## 11. At-a-Glance Calendar
 
 | Wk | Date | Topic | Key tools | Due |
 |---|---|---|---|---|
