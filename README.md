@@ -512,17 +512,6 @@ Readings are listed for preparation before class unless noted. Labs are the core
 
 **Changes to the syllabus.** The instructor may adjust the schedule in response to class progress, guest availability, or regulatory changes. Changes will be announced in class and posted on the course site.
 
-## 11. Instructor Planning Checklist (delete before distribution)
-
-- [ ] Choose project setting (Edwards Plateau vs. Blackland Prairie) and build the mock dataset, including seeded errors for Weeks 2, 6, and 9
-- [ ] Set up the course server or Docker image; test with a Windows 11 and an Apple-silicon Mac
-- [ ] Arrange ArcGIS Pro licensing for demonstrations (optional)
-- [ ] Confirm current THC rules, Atlas access, curation requirements, and NAGPRA regulations (items marked **VERIFY**)
-- [ ] Secure guest speakers early
-- [ ] Obtain permission to use any tDAR or Open Context datasets as supplementary examples
-- [ ] Choose the Python/R default and finalize readings
-- [ ] Write rubrics for Assignments 1–3 and the final project
-- [ ] Insert university policy language and finalize the calendar with holidays
 
 ## 12. At-a-Glance Calendar
 
