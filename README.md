@@ -11,23 +11,23 @@
 | **Office hours**   | [days/times], or by appointment                                            |
 | **Meeting time**   | Weekly, 3 hours                                                            |
 | **Location**       | TBD - TARL? / online?                                                      |
-| **Course site**    | [LMS URL] · **Course repository:** [GitHub Classroom / GitLab URL]         |
+| **Course site**    | https:// · **Course repository:** https://github.com/reedd-austin/adma     |
 | **Prerequisites**  | Graduate standing in the MA program. No programming experience is assumed. |
 
 ---
 
 ## 1. Course Description
 
-This is the core informatics course for the MA in Cultural Resource Management. It is a hands-on, lab-based course in how archaeological and zooarchaeological data are created, structured, stored, shared, and analyzed in professional practice in Texas. Students learn to work fluently in Windows, macOS, and Linux environments and at the Unix command line; to design relational databases, controlled vocabularies, and ontologies for archaeological data; and to use Python or R to extract data from their databases and produce analyses and report-ready products.
+This is a hands-on, lab-based course on how archaeological and zooarchaeological data are created, structured, stored, shared, and analyzed in archaeological practice. Students learn to work fluently in Windows, macOS, and Linux environments and at the Unix command line; to design relational databases, controlled vocabularies, and ontologies for archaeological data; and to use Python or R to extract data from their databases and produce analyses and report-ready products.
 
-The course is organized around a **simulated Section 106 / Antiquities Code project**. Students work as a small CRM firm that has been contracted to survey, evaluate, and partially mitigate a site on a pipeline or county-road corridor. Every assignment corresponds to a deliverable a CRM firm would produce: a data management plan, a project database, QA/QC documentation, a curation-ready collection inventory, a confidentiality plan, and report tables and figures.
+The course is organized around a **simulated Section 106 / Antiquities Code project**. Students work as a small CRM firm that has been contracted to survey, evaluate, and partially mitigate a site on a pipeline or county-road corridor. The assignments correspond to the common deliverables CRM firms produce: a data management plan, a project database, QA/QC documentation, a curation-ready collection inventory, a confidentiality plan, and report tables and figures.
 
 ## 2. Learning Outcomes
 
 By the end of the course, students will be able to:
 
-1. **Manage computing environments.** Navigate and administer Windows, macOS, and Linux file systems; use the Unix shell (and PowerShell equivalents) to inspect, clean, transform, and automate work with data files.
-2. **Practice reproducible data management.** Use version control, documented workflows, and consistent file and naming conventions that survive staff turnover, client review, and curation.
+1. **Manage computing environments.** Navigate Windows, macOS, and Linux file systems; use the Unix shell (and PowerShell equivalents) to inspect, clean, transform, and automate work with data files.
+2. **Practice reproducible data management (FAIR).** Use version control, documented workflows, and consistent file and naming conventions that survive staff turnover, client review, and curation.
 3. **Design relational databases.** Translate archaeological recording practice into normalized, constraint-enforced schemas (SQLite/GeoPackage, PostgreSQL/PostGIS) and write SQL to query, validate, and summarize data.
 4. **Handle spatial data correctly.** Select, transform, and troubleshoot coordinate reference systems, and move spatial data between open-source and Esri environments.
 5. **Build controlled vocabularies and ontologies.** Develop SKOS thesauri and OWL ontologies from competency questions, and align local terminology to published standards.
